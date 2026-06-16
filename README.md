@@ -1,39 +1,35 @@
 # PortfolioHUB
 
-## Sobre o Projeto
+## Sobre Mim
 
-O PortfolioHUB é um portfólio profissional digital desenvolvido para apresentar minhas habilidades, formação acadêmica, projetos e experiências.
+Olá! Meu nome é Kalleb Abreu da Costa e sou estudante de Engenharia de Computacao.
 
-## Objetivos
+Tenho interesse em:
 
-- Apresentar meu perfil profissional.
-- Organizar projetos acadêmicos e pessoais.
-- Compartilhar conhecimentos e experiências.
-- Desenvolver competências em Git e GitHub.
+- Automação
+- Internet das Coisas (IoT)
+- Sistemas Embarcados
+- Desenvolvimento Web
+- Eletrônica
 
-## Tecnologias Utilizadas
+## Projetos
+
+### Computação em Nuvem
+Estudo sobre virtualização, armazenamento remoto e escalabilidade.
+
+### Internet das Coisas (IoT)
+Desenvolvimento de soluções utilizando sensores e dispositivos inteligentes.
+
+### Componentes Eletrônicos
+Pesquisa técnica envolvendo NE555, amplificadores operacionais e sensores.
+
+## Tecnologias
 
 - HTML
 - CSS
 - Git
 - GitHub
-- GitHub Pages
-
-## Estrutura do Projeto
-
-PortfolioHUB/
-├── index.html
-├── README.md
-├── css/
-├── imagens/
-└── projetos/
-
-## Autor
-
-Kalleb Abreu da Costa
 
 ## Contato
-
-E-mail: kallebabreu15@gmail.com
 
 GitHub: https://github.com/Kallebhehe
